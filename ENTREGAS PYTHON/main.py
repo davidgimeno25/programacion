@@ -2,6 +2,7 @@ from crear_equipo import crear_equipo
 from listar_equipos import listar_equipos
 from buscar_por_id import buscar_por_id
 from actualizar_datos import actualizar_datos
+from eliminar_equipo import eliminar_equipo
 
 equipos = []
 
